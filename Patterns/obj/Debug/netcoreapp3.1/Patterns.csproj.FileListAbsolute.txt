@@ -1,0 +1,13 @@
+E:\NULP\6\Patterns\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.exe
+E:\NULP\6\Patterns\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.deps.json
+E:\NULP\6\Patterns\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.json
+E:\NULP\6\Patterns\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.dev.json
+E:\NULP\6\Patterns\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.dll
+E:\NULP\6\Patterns\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.pdb
+E:\NULP\6\Patterns\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.csprojAssemblyReference.cache
+E:\NULP\6\Patterns\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.csproj.CoreCompileInputs.cache
+E:\NULP\6\Patterns\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfoInputs.cache
+E:\NULP\6\Patterns\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfo.cs
+E:\NULP\6\Patterns\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.dll
+E:\NULP\6\Patterns\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.pdb
+E:\NULP\6\Patterns\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.genruntimeconfig.cache
